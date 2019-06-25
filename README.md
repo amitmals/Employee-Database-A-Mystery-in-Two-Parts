@@ -47,3 +47,5 @@ The SQL databases are imported into Pandas
 Then using the power of Pandas and Matplotlib we can create wonderful graphs
 
 <img width="300" alt="Title vs Average Salary" src="https://user-images.githubusercontent.com/46534353/60134412-49a35a00-9754-11e9-9855-3a4f8eac6e7e.png">
+
+https://github.com/amitmals/Employee-Database-A-Mystery-in-Two-Parts/blob/master/postgresSQL_pandas.ipynb
