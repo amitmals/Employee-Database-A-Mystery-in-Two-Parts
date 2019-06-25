@@ -1,4 +1,6 @@
 # Employee-Database-A-Mystery-in-Two-Parts
+#### Look at end of page to see SQL database being imported and used in Pandas
+
 Data Modeling, Data Engineering and Data Analysis-PostgreSQL
 
 This project showcases the use and power of creating SQL databases and queries.
@@ -39,3 +41,9 @@ The following queries are implemented for Data Analysis
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
 https://github.com/amitmals/Employee-Database-A-Mystery-in-Two-Parts/blob/master/SQL-Amit%20Malik-06222019-Queries.sql
+
+## SQL database being imported and used in Pandas
+The SQL databases are imported into Pandas
+Then using the power of Pandas and Matplotlib we can create wonderful graphs
+
+<img width="300" alt="Title vs Average Salary" src="https://user-images.githubusercontent.com/46534353/60134412-49a35a00-9754-11e9-9855-3a4f8eac6e7e.png">
